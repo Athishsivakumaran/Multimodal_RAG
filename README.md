@@ -30,7 +30,7 @@ This project is a **Multimodal Retrieval-Augmented Generation (RAG) System** tha
 ## 🔧 Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/multimodal-rag.git
+   git clone(https://github.com/Athishsivakumaran/Multimodal_RAG.git
    cd multimodal-rag
    ```
 2. **Create and activate a virtual environment**
